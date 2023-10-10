@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">16dp</dimen>
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="grid_margin">24dp</dimen>
+    <dimen name="sorted_number_size">24sp</dimen>
+</resources>
